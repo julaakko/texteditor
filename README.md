@@ -1,2 +1,2 @@
 # texteditor
-Yksin kertainen tekstieditori ja herjoituksen vuoksi kirjautumisikkuna.
+Yksin kertainen tekstieditori ja harjoituksen vuoksi kirjautumisikkuna.
